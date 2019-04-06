@@ -1,0 +1,3 @@
+<input type=text value="login" onclick = "alert('hi')">
+<input type=text value="login1" onclick = "alert('hi')">
+<input type=text value="login" onclick = "alert('hi')">
